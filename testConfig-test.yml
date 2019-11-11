@@ -1,5 +1,5 @@
-server
+server:
  port: 8093
 
-test
+test:
  name: wyx
